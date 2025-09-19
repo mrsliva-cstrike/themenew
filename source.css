@@ -1,7 +1,7 @@
 
 :root {
   /* APP ELEMENTS */
-  --app-bg: url(https://github.com/mrsliva-cstrike/themenew/blob/main/forest.jpg?raw=true);
+  --app-bg: url(https://mrsliva-cstrike.github.io/themenew/forest.jpg);
   --app-blur: 6px;
   --app-margin: 24px;
   --app-radius: 10px;
@@ -6501,4 +6501,5 @@ body {
 }
 
 /*# sourceMappingURL=main.css.map */
+
 
